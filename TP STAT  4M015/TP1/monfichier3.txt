@@ -1,0 +1,4 @@
+﻿SEXE;AGE;taille;poids;tabac;SPORT;mesure;alcool	
+1;33;170;70;1;0;0.52;occas	
+2;33;177;67;2;0;0.42;occas	
+2;53;164;63;1;0;0.65;non
